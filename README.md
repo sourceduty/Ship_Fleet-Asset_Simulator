@@ -16,6 +16,8 @@ MarineCFO focuses on fleet operations, regulatory compliance, and crew managemen
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Cargowise Simulator](https://github.com/sourceduty/Cargowise_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
